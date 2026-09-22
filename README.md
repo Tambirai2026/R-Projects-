@@ -35,14 +35,6 @@ Used `AnnotationDbi` and `org.Hs.eg.db` to identify the BRCA1 ENTREZ Gene ID and
 
 Summarized what the sequence characteristics and genomic location reveal about BRCA1 and EGFR.
 
-### Concepts & Skills Covered
-
-* Programming & R
-* R programming fundamentals
-* Functions and objects
-* Working with biological data in R
-* Installing and loading Bioconductor packages
-
 ### Sequence Analysis
 
 * DNA sequence retrieval
