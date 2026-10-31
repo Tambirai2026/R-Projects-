@@ -1,4 +1,4 @@
-# Project 1 and 2: R and Bioconductor - DNA sequence and genomic location 
+# Project 1 and 2: DNA sequence and Genomic location Using R and Bioconductor
 
 These two projects use R and Bioconductor to explore the BRCA1 and EGFR genes at both the DNA sequence and genomic location levels. It demonstrates how to retrieve biological sequence data from NCBI, perform basic sequence analysis, represent genomic coordinates, and retrieve gene annotations using Bioconductor databases.
 
